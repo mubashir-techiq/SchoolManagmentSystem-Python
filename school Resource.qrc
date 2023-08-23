@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="images">
+    <file>pictures/login.jpg</file>
+    <file>pictures/signup.jpg</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icons/Icon ionic-ios-people.png</file>
+    <file>icons/Icon feather-book.png</file>
+    <file>icons/Icon feather-home.png</file>
+    <file>icons/Icon ionic-ios-add.png</file>
+    <file>icons/Icon ionic-ios-person-add.png</file>
+    <file>icons/Icon ionic-ios-remove-circle-outline.png</file>
+    <file>icons/Icon ionic-ios-stats.png</file>
+    <file>icons/Icon material-date-range.png</file>
+    <file>icons/Icon metro-location.png</file>
+    <file>icons/Icon metro-pencil.png</file>
+    <file>icons/Icon metro-switch.png</file>
+  </qresource>
+</RCC>
